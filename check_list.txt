@@ -1,0 +1,51 @@
+ №                   Description                                                                   Passed/Failed 
+ 1                   Can the app be installed on the device?                                            P
+
+                     Does the app behave as designed/desired if                                         P
+ 2		     there is an incoming call? 
+
+ 3                   Does the app behave as designed/desired if                                          P
+                     the device resumes from lock screen
+ 
+
+ 4                   Does the app behave as designed/desired if                                          F
+                     the device is tilted                       
+
+ 5                   In case there’s a true “back” button                                                P
+                     available on the device does the “back”
+
+
+ 6                   Does the app behave according to
+                     "specification if connected to the internet                                         P
+                      through Wi-Fi?"
+
+ 7                   "Does the app behave according to
+                      specification if connected to the internet  through 3G?"                            P
+
+
+ 8                    When entering the application, there are no 
+                      unnecessary icons, unnecessary buttons not  specified in the specification          F
+
+
+ 9                    Check the opportunity to share the news with friends:
+
+                      VK                                                                                  F
+		      Facebook                                                                            P
+		      Instagram                                                                           F
+		      Twitter                                                                             F
+
+ 10                 On the main screen, when pressed on the handset, directs to a call in the phone book  P
+
+ 11                 When you click on the "Personal Account", a window for the phone appears to confirm   P  
+                    the entrance
+
+ 12                 "Does the app behave as designed/desired if the “Battery low” message is pushed"      P
+
+ 13                  "Does the app behave as designed/desired if the sound on the device is turned off?"  P 
+
+ 14                  Can the app be de-installed from the device?                                         P
+
+ 15                When you select "Online Marathon" in the menu, you go to the Topstretching ONLINE      P 
+                   website
+
+ 
